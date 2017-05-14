@@ -49,3 +49,4 @@
 <li>להפוך את המידע לגרף אינטראקטיבי עם D3, כך שתתאפשר אקספלורציה נוחה יותר של המידע</li>
 <li>לקחת את הערכים במקבילים בויקיפדיה ולעשות להם בדיקה דומה</li>
 </ul>
+<img src="https://raw.githubusercontent.com/alexzabbey/ideaSNA/master/Images/network.png" alt="רשת" />
